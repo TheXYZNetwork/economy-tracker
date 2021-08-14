@@ -1,0 +1,16 @@
+{
+  "name": "XYZEconomyTracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MilkGames",
+  "private": true,
+  "dependencies": {
+    "discord-webhook-node": "^1.1.8",
+    "mysql": "^2.18.1",
+    "node-echarts": "git+https://github.com/telco2011/node-echarts.git"
+  }
+}

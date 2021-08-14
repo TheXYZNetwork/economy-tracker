@@ -1,0 +1,15 @@
+{
+	"db": {
+		"host": "",
+		"user": "",
+		"password": ""
+	},
+	"webhook": {
+		"enabled": true,
+		"url": "https://discord.com/api/webhooks/",
+		"name": "Weekly Money Supply Stats"
+	},
+	"fetchDays": 7,
+	"localeDate": "en-GB",
+	"deleteFile": true
+}
